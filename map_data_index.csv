@@ -1,0 +1,430 @@
+DistrictID,DistIndex
+Alabama-1,1
+Alabama-2,2
+Alabama-3,3
+Alabama-4,4
+Alabama-5,5
+Alabama-6,6
+Alabama-7,7
+Arizona-1,8
+Arizona-2,9
+Arizona-3,10
+Arizona-4,11
+Arizona-5,12
+Arizona-6,13
+Arizona-7,14
+Arizona-8,15
+Arizona-9,16
+Arkansas-1,17
+Arkansas-2,18
+Arkansas-3,19
+Arkansas-4,20
+California-1,21
+California-10,22
+California-11,23
+California-12,24
+California-13,25
+California-14,26
+California-15,27
+California-16,28
+California-17,29
+California-18,30
+California-19,31
+California-2,32
+California-20,33
+California-21,34
+California-22,35
+California-23,36
+California-24,37
+California-25,38
+California-26,39
+California-27,40
+California-28,41
+California-29,42
+California-3,43
+California-30,44
+California-31,45
+California-32,46
+California-33,47
+California-34,48
+California-35,49
+California-36,50
+California-37,51
+California-38,52
+California-39,53
+California-4,54
+California-40,55
+California-41,56
+California-42,57
+California-43,58
+California-44,59
+California-45,60
+California-46,61
+California-47,62
+California-48,63
+California-49,64
+California-5,65
+California-50,66
+California-51,67
+California-52,68
+California-6,69
+California-7,70
+California-8,71
+California-9,72
+Colorado-1,73
+Colorado-2,74
+Colorado-3,75
+Colorado-4,76
+Colorado-5,77
+Colorado-6,78
+Colorado-7,79
+Colorado-8,80
+Connecticut-1,81
+Connecticut-2,82
+Connecticut-3,83
+Connecticut-4,84
+Connecticut-5,85
+Florida-1,86
+Florida-11,87
+Florida-12,88
+Florida-13,89
+Florida-14,90
+Florida-16,91
+Florida-21,92
+Florida-18,93
+Florida-19,94
+Florida-20,95
+Florida-22,96
+Florida-23,97
+Florida-25,98
+Florida-24,99
+Florida-28,100
+Florida-27,101
+Florida-3,102
+Florida-4,103
+Florida-2,104
+Florida-6,105
+Florida-7,106
+Florida-8,107
+Florida-9,108
+Georgia-1,109
+Georgia-10,110
+Georgia-11,111
+Georgia-12,112
+Georgia-13,113
+Georgia-14,114
+Georgia-2,115
+Georgia-3,116
+Georgia-4,117
+Georgia-5,118
+Georgia-6,119
+Georgia-7,120
+Georgia-8,121
+Georgia-9,122
+Hawaii-1,123
+Hawaii-2,124
+Idaho-1,125
+Idaho-2,126
+Illinois-1,127
+Illinois-10,128
+Illinois-11,129
+Illinois-12,130
+Illinois-13,131
+Illinois-14,132
+Illinois-15,133
+Illinois-16,134
+Illinois-17,135
+Illinois-2,136
+Illinois-3,137
+Illinois-4,138
+Illinois-5,139
+Illinois-6,140
+Illinois-7,141
+Illinois-8,142
+Illinois-9,143
+Indiana-1,144
+Indiana-2,145
+Indiana-3,146
+Indiana-4,147
+Indiana-5,148
+Indiana-6,149
+Indiana-7,150
+Indiana-8,151
+Indiana-9,152
+Iowa-1,153
+Iowa-2,154
+Iowa-3,155
+Iowa-4,156
+Kansas-1,157
+Kansas-2,158
+Kansas-3,159
+Kansas-4,160
+Kentucky-1,161
+Kentucky-2,162
+Kentucky-3,163
+Kentucky-4,164
+Kentucky-5,165
+Kentucky-6,166
+Louisiana-1,167
+Louisiana-2,168
+Louisiana-3,169
+Louisiana-4,170
+Louisiana-5,171
+Louisiana-6,172
+Maine-1,173
+Maine-2,174
+Maryland-1,175
+Maryland-2,176
+Maryland-3,177
+Maryland-4,178
+Maryland-5,179
+Maryland-7,180
+Maryland-8,181
+Massachusetts-1,182
+Massachusetts-2,183
+Massachusetts-3,184
+Massachusetts-4,185
+Massachusetts-5,186
+Massachusetts-6,187
+Massachusetts-7,188
+Massachusetts-8,189
+Massachusetts-9,190
+Michigan-1,191
+Michigan-10,192
+Michigan-11,193
+Michigan-12,194
+Michigan-13,195
+Michigan-2,196
+Michigan-3,197
+Michigan-4,198
+Michigan-5,199
+Michigan-6,200
+Michigan-7,201
+Michigan-8,202
+Michigan-9,203
+Minnesota-1,204
+Minnesota-2,205
+Minnesota-3,206
+Minnesota-4,207
+Minnesota-5,208
+Minnesota-6,209
+Minnesota-7,210
+Minnesota-8,211
+Mississippi-1,212
+Mississippi-2,213
+Mississippi-3,214
+Mississippi-4,215
+Missouri-1,216
+Missouri-2,217
+Missouri-3,218
+Missouri-4,219
+Missouri-5,220
+Missouri-6,221
+Missouri-7,222
+Missouri-8,223
+Montana-1,224
+Montana-2,225
+Nebraska-1,226
+Nebraska-2,227
+Nebraska-3,228
+Nevada-1,229
+Nevada-2,230
+Nevada-3,231
+Nevada-4,232
+New Hampshire-1,233
+New Hampshire-2,234
+New Jersey-1,235
+New Jersey-10,236
+New Jersey-11,237
+New Jersey-12,238
+New Jersey-2,239
+New Jersey-3,240
+New Jersey-4,241
+New Jersey-5,242
+New Jersey-6,243
+New Jersey-7,244
+New Jersey-8,245
+New Jersey-9,246
+New Mexico-1,247
+New Mexico-2,248
+New Mexico-3,249
+New York-1,250
+New York-10,251
+New York-11,252
+New York-12,253
+New York-13,254
+New York-14,255
+New York-15,256
+New York-16,257
+New York-17,258
+New York-18,259
+New York-19,260
+New York-2,261
+New York-20,262
+New York-21,263
+New York-22,264
+New York-23,265
+New York-24,266
+New York-25,267
+New York-26,268
+New York-3,269
+New York-4,270
+New York-5,271
+New York-6,272
+New York-7,273
+New York-8,274
+New York-9,275
+North Carolina-1,276
+North Carolina-10,277
+North Carolina-11,278
+North Carolina-12,279
+North Carolina-13,280
+North Carolina-14,281
+North Carolina-2,282
+North Carolina-3,283
+North Carolina-4,284
+North Carolina-5,285
+North Carolina-6,286
+North Carolina-7,287
+North Carolina-8,288
+North Carolina-9,289
+Ohio-1,290
+Ohio-10,291
+Ohio-11,292
+Ohio-12,293
+Ohio-13,294
+Ohio-14,295
+Ohio-15,296
+Ohio-2,297
+Ohio-3,298
+Ohio-4,299
+Ohio-5,300
+Ohio-6,301
+Ohio-7,302
+Ohio-8,303
+Ohio-9,304
+Oklahoma-1,305
+Oklahoma-2,306
+Oklahoma-3,307
+Oklahoma-4,308
+Oklahoma-5,309
+Oregon-1,310
+Oregon-2,311
+Oregon-3,312
+Oregon-4,313
+Oregon-5,314
+Oregon-6,315
+Pennsylvania-1,316
+Pennsylvania-10,317
+Pennsylvania-11,318
+Pennsylvania-12,319
+Pennsylvania-13,320
+Pennsylvania-14,321
+Pennsylvania-15,322
+Pennsylvania-16,323
+Pennsylvania-17,324
+Pennsylvania-2,325
+Pennsylvania-3,326
+Pennsylvania-4,327
+Pennsylvania-5,328
+Pennsylvania-6,329
+Pennsylvania-7,330
+Pennsylvania-8,331
+Pennsylvania-9,332
+Rhode Island-1,333
+Rhode Island-2,334
+South Carolina-1,335
+South Carolina-2,336
+South Carolina-3,337
+South Carolina-4,338
+South Carolina-5,339
+South Carolina-6,340
+South Carolina-7,341
+Tennessee-1,342
+Tennessee-2,343
+Tennessee-3,344
+Tennessee-4,345
+Tennessee-5,346
+Tennessee-6,347
+Tennessee-7,348
+Tennessee-8,349
+Tennessee-9,350
+Texas-1,351
+Texas-10,352
+Texas-11,353
+Texas-12,354
+Texas-13,355
+Texas-14,356
+Texas-15,357
+Texas-16,358
+Texas-17,359
+Texas-18,360
+Texas-19,361
+Texas-2,362
+Texas-20,363
+Texas-21,364
+Texas-22,365
+Texas-23,366
+Texas-24,367
+Texas-25,368
+Texas-26,369
+Texas-27,370
+Texas-28,371
+Texas-29,372
+Texas-3,373
+Texas-30,374
+Texas-31,375
+Texas-32,376
+Texas-33,377
+Texas-34,378
+Texas-35,379
+Texas-36,380
+Texas-37,381
+Texas-38,382
+Texas-4,383
+Texas-5,384
+Texas-6,385
+Texas-7,386
+Texas-8,387
+Texas-9,388
+Utah-1,389
+Utah-2,390
+Utah-3,391
+Utah-4,392
+Virginia-1,393
+Virginia-10,394
+Virginia-11,395
+Virginia-2,396
+Virginia-3,397
+Virginia-4,398
+Virginia-5,399
+Virginia-6,400
+Virginia-7,401
+Virginia-8,402
+Virginia-9,403
+Washington-1,404
+Washington-10,405
+Washington-2,406
+Washington-3,407
+Washington-4,408
+Washington-5,409
+Washington-6,410
+Washington-7,411
+Washington-8,412
+Washington-9,413
+West Virginia-1,414
+West Virginia-2,415
+Maryland-6,416
+Wisconsin-1,417
+Wisconsin-2,418
+Wisconsin-3,419
+Wisconsin-4,420
+Wisconsin-5,421
+Wisconsin-6,422
+Wisconsin-7,423
+Wisconsin-8,424
+Florida-5,425
+Florida-15,426
+Florida-26,427
+Florida-10,428
+Florida-17,429
